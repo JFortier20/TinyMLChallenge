@@ -1,1 +1,5 @@
 # TinyMLChallenge
+In the current world, there are many deaf and mute communities. The ASL (American Sign Language) plays a great role as the primary language of the deaf communities in the United States and Canada. But the ordinary person doesn't know about ASL. This creates a barrier to communication between ordinary people and deaf-mutes.
+The goal of this project is using tiny machine learning to make something that can recognize different gestures from the ASL that can help ordinary people communicate. The device contains five sensors, these sensors will be placed on the tips of five different fingers. The accelerometer sensor data can then be processed and sent to Edge Impulse to train the neural network to recognize them gesture patterns. 
+
+After the project is fully completed we will know what gesture the user is making, and the device will be connected to a small speaker which will speak the letters or numbers from the gesture that the user is making. In this case, our project will make a great contribution to the communication between the deaf and the common people.
